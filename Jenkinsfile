@@ -21,4 +21,3 @@ echo 'Deploying application'
 }
 }
 }
-t
