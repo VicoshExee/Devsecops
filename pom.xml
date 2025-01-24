@@ -7,7 +7,7 @@
     <packaging>jar</packaging>
     <properties>
         <sonar.projectKey>token</sonar.projectKey>
-        <sonar.host.url>http://192.168.100.106:9000/</sonar.host.url>
+        <sonar.host.url>http://10.2.111.23:9000/</sonar.host.url>
          <sonar.login>sqa_1739aa5fd697e194d6f0459e2fcea30a0b972e92</sonar.login>
     </properties>
 </project>
